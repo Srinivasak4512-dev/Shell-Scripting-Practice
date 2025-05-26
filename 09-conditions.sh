@@ -20,3 +20,5 @@ else
     # ❌ Typo: There’s an extra `a` at the end of this line. Should be:
     # echo "Given number $NUMBER is not less than 10"
 fi
+
+

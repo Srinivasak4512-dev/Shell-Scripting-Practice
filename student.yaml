@@ -1,0 +1,22 @@
+- firstname: Srinivasa
+  lastname: K
+  email: srinivasakysj@gmail.com
+  addresses: # list of addresses
+  - type: perm
+    doorno: 4512
+    street: 8th Cross Mailasandra
+  - type: current
+    doorno: 45129
+    street: Global village
+
+
+- firstname: Srini
+  lastname: K
+  email: srinivasakysj@gmail.com
+  addresses: # list of addresses
+  - type: perm
+    doorno: 4512
+    street: 8th Cross Mailasandra
+  - type: current
+    doorno: 45129
+    street: Global village
